@@ -44,7 +44,7 @@ DS1302时钟芯片是由美国DALLAS公司推出的具有涓细电流充电能�
 
 公对母杜邦线
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f4ef760313134c63b0ee3ebf1f6f4afe.webp#pic_center)
-## 二、开始
+## 三、开始
 ### 1、连线
 | DTH11 |  |
 |--|--|
@@ -298,5 +298,5 @@ class DS1302:
         self.Second(SECOND)
 ```
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/e45356696e824e34887b0983a05c477e.png#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/4709300797e242de9907dd26a0622d2a.png#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b3535e1a2d8a48b59b033b4e461fc292.png#pic_center)
